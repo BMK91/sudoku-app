@@ -1,0 +1,10 @@
+.gridRow {
+  display: flex;
+}
+
+.gridCell {
+  border: 1px solid;
+  height: 35px;
+  width: 35px;
+  text-align: center;
+}
